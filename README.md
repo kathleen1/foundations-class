@@ -1,2 +1,10 @@
-# foundations-class
+# Foundations Class
+## Tuesday, March 24. 2015
+
 Repository for Foundations class http://training.github.com/kit/foundations
+
+### Insturctors:
+
+* Joshua
+* Jordan
+
