@@ -3,7 +3,7 @@
 
 Repository for Foundations class http://training.github.com/kit/foundations
 
-### Insturctors:
+### Instuctors:
 
 * Joshua
 * Jordan
