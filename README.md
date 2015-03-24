@@ -5,6 +5,6 @@ Repository for Foundations class http://training.github.com/kit/foundations
 
 ### Instuctors:
 
-* Joshua
+* Joshua 
 * Jordan
 
