@@ -8,4 +8,4 @@ Repository for Foundations class http://training.github.com/kit/foundations
 * Joshua 
 * Jordan
 * Kathleen
-* Learning about GitHub stuff.
+       * Learning about GitHub stuff.
