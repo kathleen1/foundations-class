@@ -9,3 +9,4 @@ Repository for Foundations class http://training.github.com/kit/foundations
 * Jordan
 * Kathleen
        * Learning about GitHub stuff.
+       * working with a pull request
